@@ -1,6 +1,6 @@
 ## 🌐 Live Site
 
-Deployed at: stunning-squirrel-fd3a74.netlify.app
+Deployed at: [https://stunning-squirrel-fd3a74.netlify.app/]
 
 
 ## 🚀 Deployment via Netlify
